@@ -1,0 +1,33 @@
+Todo:
+  ✔ About page @done
+  ☐ Site config
+  ☐ Add RSS feed
+  ✔ Site SEO @done
+  ☐ Replace textarea with editor
+  ☐ Style post
+  ✔ Error page @done
+  ✔ Toast notifications @done
+  ✔ Use switch instead of checkbox @done
+  ☐ Register and login
+  ☐ Add tests
+  ✔ Posts search @done
+  ✔ Scroll up if form has error @done
+  ☐ Pleasing UI animations
+  ✔ Abstract validation logic @done
+  ✔ Add Prisma seed @done
+  ☐ Ignore admin for crawlers 
+  ✔ Modal @done
+  ☐ Deployment
+  
+Issues:
+  ✔ Set a limit for posts @done
+  ✔ Responsive form @done
+  ✔ Changing the slug doesn't work because it has no reference to the old slug @done
+  ✔ Checking featured requires a check if there's another featured post @done
+  ✔ Category styles @done
+  ✔ Form error validation @done
+  ☐ Prisma error validation
+  ✔ What if there is no featured post @done
+  ☐ Might need to look into Prisma connection pool to not exhaust the database connection limit
+  ☐ Theming SSR
+  ✔ Button contrast @done
